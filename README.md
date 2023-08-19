@@ -15,7 +15,7 @@ python main.py
 ```
 
 ## Screenshots
-> Screenshots of the program
+> Screenshots of the program  
 ![image](https://github.com/dubfib/vtuner/assets/81378985/2554e69c-0773-4537-9aa2-0222b6015958)
 ![image](https://github.com/dubfib/vtuner/assets/81378985/ab9bd800-f50c-474b-8e66-81bd92e25006)
 
