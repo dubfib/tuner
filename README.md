@@ -1,4 +1,4 @@
-# Tuner
+# vTuner
 > A simple violin tuner created in Python.
 
 ## Requirements
