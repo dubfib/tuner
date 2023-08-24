@@ -6,8 +6,9 @@ import time
 from scipy.signal import savgol_filter
 
 # tuning freq for each note in an object
+# from https://pages.mtu.edu/~suits/notefreqs.html
 tuning_frequencies = {
-    'E5': 659.26,
+    'E5': 659.25,
     'A4': 440.00,
     'D4': 293.66,
     'G3': 196.00,
